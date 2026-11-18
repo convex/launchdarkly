@@ -267,7 +267,7 @@ export const myQuery = query({
 The LaunchDarkly component for Convex is in beta, and may not support all
 functionality available in the LaunchDarkly SDK. If you encounter any issues or
 need help with a specific feature, please file an issue in the
-[GitHub repository](https://github.com/get-convex/launchdarkly/issues).
+[GitHub repository](https://github.com/convex/launchdarkly/issues).
 
 - Sending events in Convex queries is not supported. If you would like to have
   the SDK send events to LaunchDarkly (e.g. flag evaluation insights and for
