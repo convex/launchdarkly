@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.1
+
+### Patch Changes
+
+- ab1d174: Return the typed component API from the test registration helper.
+
 ## 0.4.0
 
 - Adds /test and /\_generated/component.js entrypoints
