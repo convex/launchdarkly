@@ -4,7 +4,7 @@
   "homepage": "https://github.com/get-convex/launchdarkly#readme",
   "version": "0.4.1",
   "type": "module",
-  "repository": "github:get-convex/launchdarkly",
+  "repository": "github:convex/launchdarkly",
   "bugs": {
     "email": "support@convex.dev",
     "url": "https://github.com/get-convex/launchdarkly"
